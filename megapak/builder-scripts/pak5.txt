@@ -60,6 +60,7 @@ scikit-learn
 scipy
 segment-anything
 simpleeval
+spandrel
 svglib
 timm
 torch

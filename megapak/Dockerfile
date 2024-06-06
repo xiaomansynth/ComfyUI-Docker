@@ -41,7 +41,8 @@ cuda-nvtx-12-1 \
 libcublas-12-1 \
 libcublas-devel-12-1 \
 libnpp-12-1 \
-libnpp-devel-12-1
+libnpp-devel-12-1 \
+wget
 
 ENV PATH="${PATH}:/usr/local/cuda-12.1/bin" \
     LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/usr/local/cuda-12.1/lib64" \
